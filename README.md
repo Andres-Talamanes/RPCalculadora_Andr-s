@@ -24,5 +24,5 @@ El proyecto contiene dos archivos principales:
 Si estás utilizando Git, puedes clonar el repositorio. De lo contrario, descarga los archivos directamente.
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_REPOSITORIO>
+git clone https://github.com/Andres-Talamanes/RPCalculadora_Andr-s.git
+cd RPCalculadora_Andrés
